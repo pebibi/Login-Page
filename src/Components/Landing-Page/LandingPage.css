@@ -1,0 +1,8 @@
+.Logo {
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+    width: 150px;
+    position: sticky;
+    top: 0%;
+}
